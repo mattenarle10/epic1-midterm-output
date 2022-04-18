@@ -6,7 +6,7 @@ As my main purpose is to create a mandala with the use of the rasengan and shuri
 ### The Tropical Cyclone 🌀
 » By definition, A tropical cyclone is an intense circular storm that originates over warm tropical oceans. I made this art with the thought of being able to often experience tropical cyclones due to the location of our country, Philippines. Hopefully, all of us will be safe in this upcoming rainy season. <br><br>
 ⦿ I edited the shuriken to another level which makes it larger but not so sharper blades to make it seem like a cyclone, succeedingly, the radius of the loop was altered and so its position to match perfectly with rasengan. The colors of the rasengan was designed to make it looke like a cyclone, after that, I lessened the range so that the itiretation will be less and simple
-![Cyclone](/assets/cyclone.png)
+![Cyclone](/assets/cyclone1.png)
 
 ### The Beyblade 🥌
 » Beyblade brings so much memories from my childhood so with the same functions as the tropical cyclone design, I played with the code a little and came up with the beyblade design. Since mandala art, deals with spirals and circles, I thought that the circular motion of the beyblade matches perfectly with the theme, so I decided to go with that concept. <br><br>
