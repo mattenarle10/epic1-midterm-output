@@ -5,7 +5,7 @@ bgcolor("black")
 speed(3000)
 
 def drawRasengan():
-    colors = ['white', 'lightblue', 'blue', 'lightgray']
+    colors = ['yellow', 'orange', 'blue', 'silver']
     for line in range(180):
         penup()
         goto(0,0)
@@ -35,8 +35,23 @@ def drawShuriken():
         left(145)
         forward(200)
 
+
+def drawCenter():
+    penup()
+    goto(-5,-5)
+    pendown()
+    for times in range(36):
+        color("white")
+        speed(11)
+        circle(20)
+        left(170)
+        left(20)
+        forward(15)
+
 drawShuriken()
+drawCenter()
 drawRasengan()
+
 
 hideturtle()
 done()
