@@ -18,5 +18,5 @@ As my main purpose is to create a mandala with the use of the rasengan and shuri
 #### References:
 ##### shuriken: https://www.youtube.com/watch?v=vAZ5CycYDtE
 ##### rasengan: https://replit.com/@Roger_Lai/mega-rasengan
-##### spirograph (bottom of the beyblade): http://programming1work.oyosite.com/ch_turtle-mandala.html
+##### spirograph: http://programming1work.oyosite.com/ch_turtle-mandala.html
 
