@@ -5,6 +5,15 @@ title("Mandala Pattern - Enarle")
 bgcolor("black")
 speed(3000)
 
+def drawImaginaryLines():
+    for times in range(18):
+        color("dark blue")
+        speed(11)
+        circle(200)
+        left(170)
+        left(20)
+        forward(15)
+
 def drawRasengan():
     colors = ['white', 'lightblue', 'blue', 'lightgray']
     for line in range(180):
@@ -28,7 +37,7 @@ def drawRasengan():
 def drawShuriken():
     color("white")
     penup()
-    goto(-50,-10)
+    goto(50,10)
     pendown()
     for i in range(300):
         left(60)
@@ -37,8 +46,20 @@ def drawShuriken():
         left(145)
         forward(100)
 
+def drawCircle():
+    color('white')
+    fillcolor('black')
+    penup()
+    goto(-5,-2)
+    pendown()
+    begin_fill()
+    circle(5)
+    end_fill()
+
+drawImaginaryLines()
 drawRasengan()
 drawShuriken()
+drawCircle()
 hideturtle()
 done()
 
@@ -46,5 +67,5 @@ done()
 #edited the shuriken to another level which makes it larger but not so sharper blades to make it seem like a cyclone
 #edited the radius of the loop and its position to match perfectly with rasengan
 
-#rasengan source: https://replit.com/@Roger_Lai/mega-rasengan
+#rasengan source: https://replicom/@Roger_Lai/mega-rasengan
 #changed the colors of the rasengan to make it looke like a cyclone, and also edited the range so that the itiretation will be less and simple
