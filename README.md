@@ -7,7 +7,7 @@ As my main purpose is to create a mandala with the use of the rasengan and shuri
 
 ### The Beyblade 🥌
 » Beyblade brings so much memories from my childhood so with the same functions as the tropical cyclone design, I played with the code a little and came up with the beyblade design. Since mandala art, deals with spirals and circles, I thought that the circular motion of the beyblade matches perfectly with the theme, so I decided to go with that concept. <br><br>
-⦿ I modified the design of the source wherein the shuriken acts as the spikes of a beyblade, more specifically, edited the loop iteration and radius to increase the number of spikes. On the other hand, changing the colors of the rasengan was vital in order to make it seem like the body of the beyblade
+⦿ I modified the design of the source wherein the shuriken acts as the spikes of a beyblade, more specifically, edited the loop iteration and radius to increase the number of spikes. On the other hand, changing the colors of the rasengan was vital in order to make it seem like the body of the beyblade. Lastly, I added a function which is a spirograph that acts as the bottom of the beyblade.
 ![Beyblade](/assets/beyblade.png)
 
 <hr>
@@ -15,4 +15,5 @@ As my main purpose is to create a mandala with the use of the rasengan and shuri
 #### References:
 ##### shuriken: https://www.youtube.com/watch?v=vAZ5CycYDtE
 ##### rasengan: https://replit.com/@Roger_Lai/mega-rasengan
+##### spirograph (bottom of the beyyblade): http://programming1work.oyosite.com/ch_turtle-mandala.html
 
