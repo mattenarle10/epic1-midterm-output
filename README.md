@@ -1,5 +1,8 @@
 # ☀︎ Mandala Art ☀︎
-As my main purpose is to create a mandala with the use of the rasengan and shuriken, I accidentally came up with these two outputs through altering the algorithms of both functions.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+
+As my main purpose is to create a mandala with the use of the rasengan and shuriken, I accidentally came up with these two outputs through altering the algorithms of both functions. 
 ### The Tropical Cyclone 🌀
 » By definition, A tropical cyclone is an intense circular storm that originates over warm tropical oceans. I made this art with the thought of being able to often experience tropical cyclones due to the location of our country, Philippines. Hopefully, all of us will be safe in this upcoming rainy season. <br><br>
 ⦿ I edited the shuriken to another level which makes it larger but not so sharper blades to make it seem like a cyclone, succeedingly, the radius of the loop was altered and so its position to match perfectly with rasengan. The colors of the rasengan was designed to make it looke like a cyclone, after that, I lessened the range so that the itiretation will be less and simple
